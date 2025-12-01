@@ -1,0 +1,67 @@
+{
+  "id": "seungyoung",
+  "name": "이승용",
+  "subName": "백엔드 개발자",
+  "profileImage": "image/profile_image.png",
+  "introduction": {
+    "quote": "기본을 중시하는 개발자 지망생입니다.",
+    "detail": "자바와 스프링을 중심 기술스택으로 하는 백엔드 개발자 지망생입니다. 문제상황을 해결하는 것은 결국 기본기인 CS 지식이라는 믿음을 가지고 있어 탄탄한 CS를 다져 문제상황을 미리 발견하고 해결하는 개발자가 목표입니다."
+  },
+  "info": {
+    "description": "자바와 스프링을 활용하여 개발을 하고 있습니다.",
+    "birthday": "1996.09.09",
+    "location": "경기도 성남시",
+    "email": "email3@gmail.com",
+    "phone": "010-xxxx-xxxx"
+  },
+  "strengths": [
+    "창의성",
+    "통찰력",
+    "의사소통"
+  ],
+  "skills": [
+    { "name": "Java", "progress": 90 },
+    { "name": "Spring", "progress": 85 },
+    { "name": "JPA", "progress": 80 },
+    { "name": "SQL", "progress": 85 }
+  ],
+  "licenses": [
+    "정보처리기사"
+  ],
+  "education": [
+    {
+      "name": "이매 고등학교",
+      "period": "2012.03.02 ~ 2015.02.14",
+      "location": "성남시 분당구"
+    },
+    {
+      "name": "단국 대학교",
+      "period": "2015.03.02 ~ 2021.02.20",
+      "gpa": "3.5",
+      "location": "경기도 용인시"
+    }
+  ],
+  "experience": [
+    {
+      "period": "4개월",
+      "company": "반도체 회사",
+      "term": "2023.05~2023.08",
+      "team": "SRE팀 인턴",
+      "task": "모니터링 툴 기능 개발",
+      "project": {
+        "name": "모니터링 툴 기능 개발",
+        "term": "2023.05~2023.08",
+        "detail": "서버 장애 발생 파악과 담당자 연락을 용이하게 하는 모니터링 툴 기능 개발"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "게시판 개발",
+      "description": "자바웹 개발 워크북이라는 책을 통해 게시판 개발을 경험했습니다. 기본적인 게시판 구현을 통해 기본적인 CRUD를 익혔습니다.",
+      "image": "image/p1.png",
+      "link": "project.html"
+    }
+  ]
+}
+
