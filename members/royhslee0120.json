@@ -2,7 +2,7 @@
   "id": "royhslee0120",
   "name": "이현석",
   "subName": "백엔드 개발자",
-  "profileImage": "image/profile_image.jpg",
+  "profileImage": "image/profile_image.png",
   "introduction": {
     "quote": "안정적인 서버를 구축하는\n백엔드 개발자입니다.",
     "detail": "확장 가능하고 안정적인 백엔드 시스템을 설계하고 구현하는 것을 전문으로 합니다. Node.js와 Python을 활용하여 효율적인 API 서버를 개발하고 있습니다. 데이터베이스 최적화와 시스템 아키텍처에 관심이 많습니다."
@@ -22,7 +22,7 @@
   "skills": [
     { "name": "Java", "progress": 20 },
     { "name": "MySQL", "progress": 15 },
-    { "name": "Spring", "progress": 0 }
+    { "name": "Spring", "progress": 5 }
   ],
   "licenses": [
     "자격증 없음"
