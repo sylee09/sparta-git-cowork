@@ -1,66 +1,66 @@
 {
-  "id": "member5",
-  "name": "정데이터",
-  "subName": "데이터 분석가",
+  "id": "example",
+  "name": "김르탄",
+  "subName": "풀스택 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
-    "quote": "데이터로 인사이트를 찾는\n데이터 분석가입니다.",
-    "detail": "대용량 데이터를 분석하여 비즈니스 인사이트를 도출하는 것을 전문으로 합니다. Python과 SQL을 활용하여 데이터를 처리하고 시각화하며, 머신러닝 모델을 구축하여 예측 분석을 수행합니다."
+    "quote": "변화에 빠르게 적응하는 개발자, 김르탄입니다.",
+    "detail": "다이내믹한 기업 문화와 빠른 성장에 매력을 느꼈습니다. 저의 창의적이고 유연한 사고로 팀에 신선한 아이디어를 제공하고 싶습니다. 함께 도전하고 성장하는 과정에서 큰 성취를 이루고 싶습니다."
   },
   "info": {
-    "description": "Python과 SQL을 활용하여 데이터 분석을 하고 있습니다.",
-    "birthday": "1997.09.25",
-    "location": "서울시 영등포구",
-    "email": "member5@example.com",
-    "phone": "010-5555-5555"
+    "description": "JavaScript를 활용하여 React/Node.js 풀스택 개발을 하고 있습니다.",
+    "birthday": "2000.08.15",
+    "location": "서울 중랑구",
+    "email": "jiwoong.choi.dev@gmail.com",
+    "phone": "010-0000-0000"
   },
   "strengths": [
-    "분석력",
-    "체계성",
-    "객관성"
+    "의사소통",
+    "도전 정신",
+    "리더십"
   ],
   "skills": [
-    { "name": "Python", "progress": 90 },
-    { "name": "SQL", "progress": 85 },
-    { "name": "R", "progress": 70 },
-    { "name": "Tableau", "progress": 75 },
-    { "name": "Machine Learning", "progress": 65 }
+    { "name": "HTML", "progress": 3 },
+    { "name": "CSS", "progress": 10 },
+    { "name": "JavaScript", "progress": 15 },
+    { "name": "React", "progress": 0 },
+    { "name": "Node.js", "progress": 0 }
   ],
   "licenses": [
-    "ADsP",
-    "SQLD"
+    "SQLD 자격증",
+    "ADsP 자격증"
   ],
   "education": [
     {
       "name": "스파르타 고등학교",
       "period": "2013.03.02 ~ 2016.02.14",
-      "location": "서울시 영등포구"
+      "location": "서울시 중랑구"
     },
     {
       "name": "스파르타 대학교",
       "period": "2016.03.02 ~ 2020.02.20",
-      "gpa": "4.1",
-      "location": "서울시 영등포구"
+      "gpa": "4.35",
+      "location": "서울시 은평구"
     }
   ],
   "experience": [
     {
-      "period": "1년 3개월",
-      "company": "데이터 분석 회사",
-      "term": "2021.10~2023.01",
-      "team": "데이터팀, 주니어 분석가",
-      "task": "데이터 분석 및 리포트 작성",
+      "period": "6개월",
+      "company": "팀스파르타",
+      "term": "2023.01~2023.06",
+      "team": "콘텐츠팀, 콘텐츠 프로듀서",
+      "task": "프론트엔드 개발 및 유지보수",
       "project": {
-        "name": "고객 행동 분석 프로젝트",
-        "term": "2022.03~2022.11",
-        "detail": "Python과 머신러닝을 활용한 고객 세그멘테이션 및 추천 시스템 개발"
+        "name": "고객 관리 시스템 개선 프로젝트",
+        "term": "2023.02~2023.05",
+        "detail": "React를 사용한 대시보드 UI 개선 및 성능 최적화"
       }
     }
   ],
   "projects": [
     {
-      "title": "대시보드 개발",
-      "description": "비즈니스 지표를 시각화하는 대시보드를 개발했습니다. Python과 Tableau를 활용하여 실시간 데이터를 모니터링하고, 주요 지표를 한눈에 볼 수 있도록 구현했습니다.",
+      "title": "프로젝트1",
+      "description": "유학생 커뮤니티 플랫폼 개발을 목표로 하였습니다. 유학생들이 서로 정보를 공유하고 교류할 수 있도록 게시판, 채팅, 이벤트 관리 기능을 구현했습니다.",
       "image": "image/p1.png",
       "link": "project.html"
     }
