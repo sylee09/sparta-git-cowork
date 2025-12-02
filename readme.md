@@ -121,7 +121,7 @@ git checkout -b add-member-<your-name>
 {
   "members": [
     "member1.json",
-    "member2.json",
+    "leejun14.json",
     "member3.json",
     "member4.json",
     "member5.json",
